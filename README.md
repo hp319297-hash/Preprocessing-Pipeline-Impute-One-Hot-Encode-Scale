@@ -99,6 +99,3 @@ application during training and prediction.
 
 ---
 
-## THEORY  
-
-Pipelines ensure transformations are fit on training data only; critical for valid evaluation.
